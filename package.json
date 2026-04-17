@@ -1,0 +1,19 @@
+{
+  "name": "ca-2-arushi-90",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+},
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
